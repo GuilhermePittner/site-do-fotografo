@@ -1,8 +1,8 @@
-##Projeto 1/50
+## Projeto 1/50
 
-#Site para um fotógrafo.
+# Site para um fotógrafo.
 
-##Readme in english.
+## Readme in english.
 
 Este é o primeiro projeto que eu estou subindo aqui no Github em relação a uma proposta que criei a mim mesmo: 50 projetos para me tornar um "mestre do front end" , então vamos lá:
 
@@ -10,7 +10,7 @@ Este website foi desenvolvido com base em um vídeo da Hostinger, e nele foi uti
 É um projeto interessante, gostei de desenvolver, e acredito que este projeto é um baú do tesouro para quem está começando nessa área.
 Sobre edição/alterações, eu apenas criei algumas variáveis para evitar o uso de "color" o tempo todo.
 
-##Readme in english.
+## Readme in english.
 
 This is the first project I'm uploading here in Github according to my proposal to myself: 50 projects to enhance my front-end skills.
 
